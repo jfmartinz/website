@@ -1,34 +1,76 @@
-# Would You Web
+<div align="center">
+  
+![Logo](https://github.com/jfmartinz/website/assets/129386460/395c1e85-0102-4bcc-a683-ed591f50d0c7)<br>
+# Would You 
 
-The official repository for the [Would You website](https://wouldyoubot.gg)
+[![Issues](https://img.shields.io/github/issues/Would-You-Bot/website.svg?style=flat)](https://github.com/Would-You-Bot/website/issues)
+[![Stars](https://img.shields.io/github/stars/Would-You-Bot/website.svg?style=flat)](https://github.com/Would-You-Bot/website/stars)
+[![Forks](https://img.shields.io/github/forks/Would-You-Bot/website.svg?style=flat)](https://github.com/Would-You-Bot/website/forks)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
+[![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
 
-![Discord Bots](https://top.gg/api/widget/981649513427111957.svg)
+
+</div>
+
 
 ## Table of Contents
 
-- [Introduction](#Introduction)
+- [What is Would You?](#what-is-would-you)
+- [Features](#features)
 - [Development](#development)
-- [About Bot](#about-Bot)
+- [Invite](#invite)
 - [Contributors](#contributors)
 
-## Introduction
-
+## What is Would You?
 Play fun and entertaining games with Would You, featuring user polls and customization. Play Would You Rather, Never Have I Ever, Higher or Lower, and What Would You Do!
 
+## Features
+What Does Would You Offer To Your Server?
+
+### 1. Increase user engagement
+   > Keep your community engaged and active with daily "Would You Rather" messages!
+
+![feature1](https://github.com/jfmartinz/website/assets/129386460/509dcba2-4a29-46a9-952a-e2db0a03faf4)
+
+### 2. Keep the server active
+   > We provide your server with hundreds of funny possible superpowers ready to start a conversation with.
+   
+   ![feature2](https://github.com/jfmartinz/website/assets/129386460/356a8922-17c2-47a4-945c-71050ea350c9)
+
+### 3. Upgrade your server
+   > Customized responses make your server unique and stand out from the crowd.
+
+   ![feature3](https://github.com/jfmartinz/website/assets/129386460/f6b3ee20-11e7-4d9d-a535-e8faa8a7117a)
+
+
 ## Development
+To get started with development, follow these steps:
 
-1. Pull the newest version from the repository
-2. Install dependencies with `pnpm install`
-3. Start the development server with `pnpm dev`
+1. **Update to the Latest Version**<br>
+   Fetch the latest changes from the repository by running:
+   ```bash
+   git pull
+   ```
+   
+3. **Install dependencies**<br>
+   Install project dependencies using pnpm by executing:
+   ```bash
+   pnpm install
+   ```
+4. **Start the development server**<br>
+   Launch the development server with the following command:
+   ```bash
+    pnpm dev
+   ```
+> Read our [contributing.md](https://github.com/Would-You-Bot/website/blob/main/Contributing.md) for more information.
 
-## About Bot
-<details>
+## Invite 
 
-  <summary>Invite Bot</summary>
+Join Over *6,150 Communities* and Entertain *2,000,000+* Users with **Would You** Bot!<br>
 
-https://discord.com/oauth2/authorize?client_id=981649513427111957&permissions=275415247936&scope=bot%20applications.commands
+> Ready to bring some fun to your server? Invite Would You Bot in your server by clicking [here](https://discord.com/oauth2/authorize?client_id=981649513427111957&permissions=275415247936&scope=bot%20applications.commands).
 
-</details>
 
 ## Contributors
 
