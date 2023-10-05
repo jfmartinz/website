@@ -1,7 +1,8 @@
 <div align="center">
   
-![Logo](https://github.com/jfmartinz/website/assets/129386460/395c1e85-0102-4bcc-a683-ed591f50d0c7)<br>
 # Would You 
+![Banner](https://github.com/jfmartinz/website/assets/129386460/bafa0d2c-4715-4b13-9d66-e7f4c537f009)
+<br>
 
 [![Issues](https://img.shields.io/github/issues/Would-You-Bot/website.svg?style=flat)](https://github.com/Would-You-Bot/website/issues)
 [![Stars](https://img.shields.io/github/stars/Would-You-Bot/website.svg?style=flat)](https://github.com/Would-You-Bot/website/stars)
